@@ -1,0 +1,33 @@
+*.dll
+ANSI Debug/
+Backup/
+bin/
+Unicode Realeas/
+*.sdf
+*.suo
+*.FIRST
+*.htm
+*.html
+*.cache
+Thumbs.db
+#ignore thumbnails created by windows
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
